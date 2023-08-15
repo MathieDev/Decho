@@ -2,7 +2,7 @@
   "main_menu": {
     "news": {
       "offseason": {
-        "link": "https://example.com",
+        "link": "https://meowvr.com",
         "texture": null
       }
     },
@@ -10,11 +10,11 @@
     "id": "main_menu",
     "splash": {
       "offseason": {
-        "link": "https://example.com",
+        "link": "https://meowvr.com",
         "texture": "ui_menu_splash_screen_poster_a_shutdown_clr"
       },
       "season_07": {
-        "link": "https://example.com",
+        "link": "https://meowvr.com",
         "texture": "ui_menu_splash_screen_poster_a_s7_clr"
       }
     },
